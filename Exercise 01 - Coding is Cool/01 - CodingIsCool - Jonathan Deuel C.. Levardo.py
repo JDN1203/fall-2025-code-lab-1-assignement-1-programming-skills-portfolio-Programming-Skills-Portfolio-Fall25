@@ -1,0 +1,9 @@
+#Variables
+word1 = "Coding"
+word2 = "is"
+word3 = "cool"
+
+phrase = word1 + " " + word2 + " " + word3
+
+#Result
+print(phrase)
